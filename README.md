@@ -5,7 +5,7 @@
 ## 🖊️기록
 |날짜|학습 내용|
 |---|---|
-|240104|[[리뷰] Replicaset VS Deployment 차이]()<br>[[리뷰] Namespace 실습]()<br>[[리뷰] apply 명령어 동작 과정 ]()|
+|240104|[[리뷰] Replicaset VS Deployment 차이](https://github.com/jjhh0210/TIL_infra-cloud/blob/main/k8s/CoreConcepts/Replicaset%20VS%20Deployment.md)<br>[[리뷰] Namespace](https://github.com/jjhh0210/TIL_infra-cloud/blob/main/k8s/CoreConcepts/Namespace.md)<br>[[리뷰] Imperative VS Declarative](https://github.com/jjhh0210/TIL_infra-cloud/blob/main/k8s/CoreConcepts/k8s%EC%97%90%EC%84%9C%20imperative%20VS%20Declarative.md)|
 |240105||
 |240106||
 |240107||
