@@ -20,7 +20,7 @@
 ### CKA 
 [2. Core Concepts](https://mint-thread-249.notion.site/2-Core-Concepts-8ef6239295794cac8f5255c0b26693f3?pvs=4)<br>
 [3. Scheduling](https://mint-thread-249.notion.site/3-Scheduling-3fe273e950bf4a8aa6fb234425ed2237?pvs=4)<br>
-[4. Logging & Monitoring](https://mint-thread-249.notion.site/4-Logging-Monitoring-fc311e46c42d418ab162622f88b50593?pvs=4)
+[4. Logging & Monitoring](https://mint-thread-249.notion.site/4-Logging-Monitoring-fc311e46c42d418ab162622f88b50593?pvs=4) <br>
 [5. Application Lifecycle Management](https://mint-thread-249.notion.site/5-Application-Lifecycle-Management-7339342bfe764326a903d4e8bdc27f8c?pvs=4)
 
 ### Cloud Native
