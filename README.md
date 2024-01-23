@@ -13,6 +13,7 @@
 |240111|- Multiple Schedulers|
 |240116|- 스케쥴링 실습<br>**<Seciton 4 - Logging and Monitoring 시작>**<br>- Metrics Server로 클러스터 자원 사용량 모니터링<br>- 로그 확인하기|
 |240122|- Nodeport, ClusterIP, LoadBalancer 서비스 및 kube-proxy 복습<br> **<Seciton 5 - Application Lifecycle Management 시작>**<br>|
+|240123|- 컨테이너 시작 명령어 설정법<br> - 파드 시작 명령어 & 인자 설정<br>- 환경변수 설정|
 
 
 
