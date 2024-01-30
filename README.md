@@ -13,16 +13,17 @@
 |날짜|학습 내용|
 |---|---|
 |240104|[[리뷰] Replicaset VS Deployment 차이](https://github.com/jjhh0210/TIL_infra-cloud/blob/main/k8s/CoreConcepts/Replicaset%20VS%20Deployment.md)<br>[[리뷰] Namespace](https://github.com/jjhh0210/TIL_infra-cloud/blob/main/k8s/CoreConcepts/Namespace.md)<br>[[리뷰] Imperative VS Declarative](https://github.com/jjhh0210/TIL_infra-cloud/blob/main/k8s/CoreConcepts/k8s%EC%97%90%EC%84%9C%20imperative%20VS%20Declarative.md)|
-|240105|**<Section 3 - Scheduling 시작>** <br>- 스케쥴링 기본 및 수동 스케쥴링하기<br>- Labels, Selector, Annotation|
+|240105|**<Section 3 - Scheduling>** <br>- 스케쥴링 기본 및 수동 스케쥴링하기<br>- Labels, Selector, Annotation|
 |240108|**특정 노드로의 파드 스케쥴링 제어하기** <br>- Taints & Tolerations<br>- Node Selector , Node Affinity <br> - Taints&Tolerations VS Node Affinity 차이|
 |240109|**리소스 할당 및 사용량 제어하기** <br>- Resource Requirements and Limits<br>- Demonsets <br>- Static Pods |
 |240111|- Multiple Schedulers|
-|240116|- 스케쥴링 실습<br>**<Seciton 4 - Logging and Monitoring 시작>**<br>- Metrics Server로 클러스터 자원 사용량 모니터링<br>- 로그 확인하기|
-|240122|- Nodeport, ClusterIP, LoadBalancer 서비스 및 kube-proxy 복습<br> **<Seciton 5 - Application Lifecycle Management 시작>**<br>- Strategy in Deployments(롤링 업데이트, Recreate)|
+|240116|- 스케쥴링 실습<br>**<Seciton 4 - Logging and Monitoring>**<br>- Metrics Server로 클러스터 자원 사용량 모니터링<br>- 로그 확인하기|
+|240122|- Nodeport, ClusterIP, LoadBalancer 서비스 및 kube-proxy 복습<br> **<Seciton 5 - Application Lifecycle Management>**<br>- Strategy in Deployments(롤링 업데이트, Recreate)|
 |240123|- 컨테이너 시작 명령어 설정법<br> - 파드 시작 명령어 & 인자 설정<br>- 환경변수 설정|
 |240124|- 설정데이터 다루는법 1) ConfigMap<br> - 설정데이터 다루는법 2) Secrets<br>- Encrypting Secret data at rest (암호화)|
 |240126|- 다중 컨테이너 파드, 로깅 구현<br> - InitContainers|
-
+|240127|**<Seciton 6 - Cluster Maintenance>**<br>- OS Upgrade (노드 offline동안의 대처법)|
+|240130|- 쿠버네티스 releases and versions<br>- cluster upgrade 프로세스<br>- kubeadm 클러스터 업그레이드 실습|
 
 
 ## 🔗관련 강의 및 자료
