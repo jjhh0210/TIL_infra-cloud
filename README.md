@@ -24,7 +24,7 @@
 |240126|- 다중 컨테이너 파드, 로깅 구현<br> - InitContainers|
 |240127|**<Seciton 6 - Cluster Maintenance>**<br>- OS Upgrade (노드 offline동안의 대처법)|
 |240130|- 쿠버네티스 releases and versions<br>- cluster upgrade 프로세스<br>- kubeadm 클러스터 업그레이드 실습|
-
+|240202|- ETCD Backup & Restore|
 
 ## 🔗관련 강의 및 자료
 ### CKA
