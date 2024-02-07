@@ -25,6 +25,9 @@
 |240127|**<Seciton 6 - Cluster Maintenance>**<br>- OS Upgrade (노드 offline동안의 대처법)|
 |240130|- 쿠버네티스 releases and versions<br>- cluster upgrade 프로세스<br>- kubeadm 클러스터 업그레이드 실습|
 |240202|- ETCD Backup & Restore|
+|240203|**<Seciton 7 - Security>**<br>- 보안 기초 <br>- Authentication<br>- TLS basics  |
+|240207|- TLS in k8s <br> - client/server 인증서 생성|
+
 
 ## 🔗관련 강의 및 자료
 ### CKA
